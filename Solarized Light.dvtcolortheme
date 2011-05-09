@@ -92,7 +92,7 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.plain</key>
-		<string>Menlo-Regular - 13.0</string>
+		<string>Menlo-Regular - 11.0</string>
 	</dict>
 </dict>
 </plist>
